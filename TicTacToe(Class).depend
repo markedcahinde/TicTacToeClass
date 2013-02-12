@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1088621346 source:c:\code blocks\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445380 c:\code blocks\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358445380 source:c:\code blocks\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358459854 c:\code blocks\tictactoe(class)\board.h
+	"Player.h"
+
+1358459245 source:c:\code blocks\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+
+1088619678 source:c:\code blocks\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+
+1358446143 c:\code blocks\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1088612110 source:d:\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1358858056 d:\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1358461046 d:\tictactoe(class)\board.h
+	"Player.h"
+
+1358445382 d:\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358461748 source:d:\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445382 source:d:\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358461482 source:d:\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+
+1088612110 source:e:\ \files\programming\data struct exercises\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
+1358858056 e:\ \files\programming\data struct exercises\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1358461046 e:\ \files\programming\data struct exercises\tictactoe(class)\board.h
+	"Player.h"
+
+1358445382 e:\ \files\programming\data struct exercises\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358461748 source:e:\ \files\programming\data struct exercises\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445382 source:e:\ \files\programming\data struct exercises\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358461482 source:e:\ \files\programming\data struct exercises\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+

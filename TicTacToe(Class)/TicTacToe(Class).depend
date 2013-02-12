@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1088621346 source:c:\code blocks\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445380 c:\code blocks\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358445380 source:c:\code blocks\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358459854 c:\code blocks\tictactoe(class)\board.h
+	"Player.h"
+
+1358459245 source:c:\code blocks\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+
+1088619678 source:c:\code blocks\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+
+1358446143 c:\code blocks\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1358470010 source:c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1358446143 c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1358461045 c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\board.h
+	"Player.h"
+
+1358445380 c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358461746 source:c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445380 source:c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358461481 source:c:\documents and settings\mao\my documents\downloads\tictactoe(class)\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+
+1359041808 source:d:\tictactoe(class)\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1359043008 d:\tictactoe(class)\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1359041806 source:d:\tictactoe(class)\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1359043020 d:\tictactoe(class)\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
+1359043016 d:\tictactoe(class)\tictactoe(class)\board.h
+	"Player.h"
+
+1359038664 source:d:\tictactoe(class)\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1359040598 source:d:\tictactoe(class)\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+	<cstdlib>
+
